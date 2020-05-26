@@ -1,0 +1,14 @@
+רשימת המודולים הנדרשים:
+numpy-pip install numpy
+pandas-pip install pandas
+sklearn-pip install sklearn
+matplotlib-pip install matplotlib
+imblearn-pip install imblearn
+folium-pip install folium
+חבילה מיוחדת:
+multiscorer
+הקוד להתקנה :
+נדרש שיהיה מותקן git על המחשב
+pip install git+https://github.com/drorata/multiscorer.git
+אופציה חלופית אם לא מותקן להיכנס לכתובת https://github.com/drorata/multiscorer.git
+ולהוסיף את המימוש של המודול לתיקייה של הפרוייקט ובקובץ experiments שורה 3 לשנות ל: from multiscorer import MultiScorer.
