@@ -1,6 +1,6 @@
 # AIproject-Technion
-predict dangerous junction in israel
-every year in israel 300-350 people died in traffic collision, injured 140K people and make a damage of approximity 22 billion shekel.
+predict dangerous junction in israel.                                                                                                   
+Every year, between 300 and 350 people die in road accidents,injuring about 140,000 and causing damage to the economy of about 22 million NIS.
 Effective traffic enforcement is necessary to reduce risky driving and thus reduce road accidents and severity.
 The main goal of the project is to minimize the number of road accidents with the help of a forecast for future road accidents,
 And relying on that information,To place police cars.
